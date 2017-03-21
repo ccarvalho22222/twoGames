@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 80d788bb8066f364daf27a6681f74630
+timeCreated: 1476042960
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - VertigoFLF
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 414aa5ba257f59f43935183a666535f8, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

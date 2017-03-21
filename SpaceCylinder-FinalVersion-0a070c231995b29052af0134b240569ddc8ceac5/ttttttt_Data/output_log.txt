@@ -1,0 +1,99 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics (ID=0x22b1)
+    Vendor:   Intel
+    VRAM:     1113 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Cory\Desktop\SpaceCylinder-FinalVersion-0a070c231995b29052af0134b240569ddc8ceac5\ttttttt_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Cory\Desktop\SpaceCylinder-FinalVersion-0a070c231995b29052af0134b240569ddc8ceac5\ttttttt_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Cory\Desktop\SpaceCylinder-FinalVersion-0a070c231995b29052af0134b240569ddc8ceac5\ttttttt_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Cory\Desktop\SpaceCylinder-FinalVersion-0a070c231995b29052af0134b240569ddc8ceac5\ttttttt_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Cory\Desktop\SpaceCylinder-FinalVersion-0a070c231995b29052af0134b240569ddc8ceac5\ttttttt_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Cory\Desktop\SpaceCylinder-FinalVersion-0a070c231995b29052af0134b240569ddc8ceac5\ttttttt_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Cory\Desktop\SpaceCylinder-FinalVersion-0a070c231995b29052af0134b240569ddc8ceac5\ttttttt_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Cory\Desktop\SpaceCylinder-FinalVersion-0a070c231995b29052af0134b240569ddc8ceac5\ttttttt_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.441 seconds
+Platform assembly: C:\Users\Cory\Desktop\SpaceCylinder-FinalVersion-0a070c231995b29052af0134b240569ddc8ceac5\ttttttt_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Cory\Desktop\SpaceCylinder-FinalVersion-0a070c231995b29052af0134b240569ddc8ceac5\ttttttt_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI.Hid> Failed to create device file:
+ 2 The system cannot find the file specified.
+
+ 
+(Filename:  Line: 54)
+
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.683604 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 232c -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 30.280630 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 906.
+Total: 12.353027 ms (FindLiveObjects: 0.232967 ms CreateObjectMapping: 0.222726 ms MarkObjects: 11.513321 ms  DeleteObjects: 0.298249 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 18.394176 ms
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 937.
+Total: 1.765815 ms (FindLiveObjects: 0.253447 ms CreateObjectMapping: 0.144644 ms MarkObjects: 1.198757 ms  DeleteObjects: 0.166405 ms)
+
+24.3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+1.700031
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+6.900012
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+18.3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+356.3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+4.399931
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.661101 ms
+
+Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 938.
+Total: 3.832440 ms (FindLiveObjects: 0.531216 ms CreateObjectMapping: 0.206726 ms MarkObjects: 2.773206 ms  DeleteObjects: 0.317449 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.226816 ms
+
+Unloading 538 unused Assets to reduce memory usage. Loaded Objects now: 283.
+Total: 11.396837 ms (FindLiveObjects: 0.138884 ms CreateObjectMapping: 0.043521 ms MarkObjects: 0.518416 ms  DeleteObjects: 10.694735 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.869787 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 283.
+Total: 0.570257 ms (FindLiveObjects: 0.050561 ms CreateObjectMapping: 0.016000 ms MarkObjects: 0.492175 ms  DeleteObjects: 0.010880 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.104737 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 271.
+Total: 2.176708 ms (FindLiveObjects: 0.146564 ms CreateObjectMapping: 0.078082 ms MarkObjects: 1.875898 ms  DeleteObjects: 0.070402 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.219238 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 283.
+Total: 0.832026 ms (FindLiveObjects: 0.084482 ms CreateObjectMapping: 0.023680 ms MarkObjects: 0.709142 ms  DeleteObjects: 0.013440 ms)
+
